@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/327f2022c14a487d82d33f8aa542b538/artifacts
+end_time: 1678353692588
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 327f2022c14a487d82d33f8aa542b538
+run_name: popular-donkey-104
+run_uuid: 327f2022c14a487d82d33f8aa542b538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353688536
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/e713619b93564ae59e782e527fd440fc/artifacts
+end_time: 1678352220677
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: e713619b93564ae59e782e527fd440fc
+run_name: zealous-ram-259
+run_uuid: e713619b93564ae59e782e527fd440fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352216818
+status: 3
+tags: []
+user_id: Férol

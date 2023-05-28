@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c801695dbeca45ef9433ca0223caaa5a/artifacts
+end_time: 1678350033809
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c801695dbeca45ef9433ca0223caaa5a
+run_name: amazing-squid-463
+run_uuid: c801695dbeca45ef9433ca0223caaa5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350029492
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/b21fba8e2cf042168f512f8aabf31f05/artifacts
+end_time: 1678353535183
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: b21fba8e2cf042168f512f8aabf31f05
+run_name: welcoming-lark-120
+run_uuid: b21fba8e2cf042168f512f8aabf31f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353531304
+status: 3
+tags: []
+user_id: Férol

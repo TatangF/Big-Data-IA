@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/480d7587a5d84635b9e02e59108314ef/artifacts
+end_time: 1678353461229
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 480d7587a5d84635b9e02e59108314ef
+run_name: redolent-lark-972
+run_uuid: 480d7587a5d84635b9e02e59108314ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353457159
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/cca4d69b8c624ef4a800096b2bd403d3/artifacts
+end_time: 1678350686338
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: cca4d69b8c624ef4a800096b2bd403d3
+run_name: flawless-carp-689
+run_uuid: cca4d69b8c624ef4a800096b2bd403d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350681162
+status: 3
+tags: []
+user_id: Férol

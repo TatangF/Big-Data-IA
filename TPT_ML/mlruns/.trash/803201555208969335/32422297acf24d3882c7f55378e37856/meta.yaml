@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/32422297acf24d3882c7f55378e37856/artifacts
+end_time: 1678350197118
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 32422297acf24d3882c7f55378e37856
+run_name: delicate-cow-102
+run_uuid: 32422297acf24d3882c7f55378e37856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350192395
+status: 3
+tags: []
+user_id: Férol

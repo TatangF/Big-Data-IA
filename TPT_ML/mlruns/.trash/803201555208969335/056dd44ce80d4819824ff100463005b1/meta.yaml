@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/056dd44ce80d4819824ff100463005b1/artifacts
+end_time: 1678353085725
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 056dd44ce80d4819824ff100463005b1
+run_name: casual-wren-501
+run_uuid: 056dd44ce80d4819824ff100463005b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353081725
+status: 3
+tags: []
+user_id: Férol

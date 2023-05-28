@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/94b630a440164835a4ecfff977d5e7b1/artifacts
+end_time: 1678350498622
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 94b630a440164835a4ecfff977d5e7b1
+run_name: capable-sloth-804
+run_uuid: 94b630a440164835a4ecfff977d5e7b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350494206
+status: 3
+tags: []
+user_id: Férol

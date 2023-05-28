@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/788e157f19a546ee9e0f976d3cf56c27/artifacts
+end_time: 1678350863943
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 788e157f19a546ee9e0f976d3cf56c27
+run_name: awesome-deer-123
+run_uuid: 788e157f19a546ee9e0f976d3cf56c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350860093
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/efbdd963ff864bb89a10762acfcb34f3/artifacts
+end_time: 1678353069895
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: efbdd963ff864bb89a10762acfcb34f3
+run_name: stately-cub-30
+run_uuid: efbdd963ff864bb89a10762acfcb34f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353065660
+status: 3
+tags: []
+user_id: Férol

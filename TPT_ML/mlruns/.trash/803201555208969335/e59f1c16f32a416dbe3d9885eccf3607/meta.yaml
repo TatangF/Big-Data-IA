@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/e59f1c16f32a416dbe3d9885eccf3607/artifacts
+end_time: 1678350494193
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: e59f1c16f32a416dbe3d9885eccf3607
+run_name: rumbling-sloth-37
+run_uuid: e59f1c16f32a416dbe3d9885eccf3607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350489653
+status: 3
+tags: []
+user_id: Férol

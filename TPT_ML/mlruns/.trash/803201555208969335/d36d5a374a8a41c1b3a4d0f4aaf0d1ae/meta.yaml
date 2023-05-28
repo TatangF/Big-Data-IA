@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/d36d5a374a8a41c1b3a4d0f4aaf0d1ae/artifacts
+end_time: 1678350771989
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: d36d5a374a8a41c1b3a4d0f4aaf0d1ae
+run_name: amusing-hawk-11
+run_uuid: d36d5a374a8a41c1b3a4d0f4aaf0d1ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350768125
+status: 3
+tags: []
+user_id: Férol

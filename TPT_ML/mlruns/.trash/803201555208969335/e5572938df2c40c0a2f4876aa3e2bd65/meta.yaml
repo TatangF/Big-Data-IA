@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/e5572938df2c40c0a2f4876aa3e2bd65/artifacts
+end_time: 1678352010080
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: e5572938df2c40c0a2f4876aa3e2bd65
+run_name: bald-yak-581
+run_uuid: e5572938df2c40c0a2f4876aa3e2bd65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352006126
+status: 3
+tags: []
+user_id: Férol

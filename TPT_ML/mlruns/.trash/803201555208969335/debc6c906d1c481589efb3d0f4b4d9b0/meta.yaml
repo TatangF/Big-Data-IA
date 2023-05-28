@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/debc6c906d1c481589efb3d0f4b4d9b0/artifacts
+end_time: 1678352710491
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: debc6c906d1c481589efb3d0f4b4d9b0
+run_name: calm-gull-233
+run_uuid: debc6c906d1c481589efb3d0f4b4d9b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352706740
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/8b85024c96c647cda8a58a86173f14c4/artifacts
+end_time: 1678352481948
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 8b85024c96c647cda8a58a86173f14c4
+run_name: kindly-tern-422
+run_uuid: 8b85024c96c647cda8a58a86173f14c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352478120
+status: 3
+tags: []
+user_id: Férol

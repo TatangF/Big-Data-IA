@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/fb2f2d01eda045b2bfb84e5a8034bbce/artifacts
+end_time: 1678352757384
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: fb2f2d01eda045b2bfb84e5a8034bbce
+run_name: crawling-cow-737
+run_uuid: fb2f2d01eda045b2bfb84e5a8034bbce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352753518
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/69e86912ea014e239708284e0bc73e7e/artifacts
+end_time: 1678350306449
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 69e86912ea014e239708284e0bc73e7e
+run_name: aged-goat-818
+run_uuid: 69e86912ea014e239708284e0bc73e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350301730
+status: 3
+tags: []
+user_id: Férol

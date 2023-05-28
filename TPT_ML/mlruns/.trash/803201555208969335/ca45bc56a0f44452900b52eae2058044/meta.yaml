@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ca45bc56a0f44452900b52eae2058044/artifacts
+end_time: 1678351689396
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ca45bc56a0f44452900b52eae2058044
+run_name: bittersweet-ram-511
+run_uuid: ca45bc56a0f44452900b52eae2058044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351685592
+status: 3
+tags: []
+user_id: Férol

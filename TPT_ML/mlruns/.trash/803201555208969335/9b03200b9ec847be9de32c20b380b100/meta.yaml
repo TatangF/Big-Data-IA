@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/9b03200b9ec847be9de32c20b380b100/artifacts
+end_time: 1678350230954
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 9b03200b9ec847be9de32c20b380b100
+run_name: gaudy-bat-67
+run_uuid: 9b03200b9ec847be9de32c20b380b100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350226578
+status: 3
+tags: []
+user_id: Férol

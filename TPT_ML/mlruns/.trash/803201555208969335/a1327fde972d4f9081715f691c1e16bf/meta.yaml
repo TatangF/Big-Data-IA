@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a1327fde972d4f9081715f691c1e16bf/artifacts
+end_time: 1678351141520
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a1327fde972d4f9081715f691c1e16bf
+run_name: dashing-mare-819
+run_uuid: a1327fde972d4f9081715f691c1e16bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351137743
+status: 3
+tags: []
+user_id: Férol

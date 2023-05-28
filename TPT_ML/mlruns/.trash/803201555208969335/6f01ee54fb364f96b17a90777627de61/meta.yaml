@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/6f01ee54fb364f96b17a90777627de61/artifacts
+end_time: 1678351785295
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 6f01ee54fb364f96b17a90777627de61
+run_name: casual-shoat-382
+run_uuid: 6f01ee54fb364f96b17a90777627de61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351781427
+status: 3
+tags: []
+user_id: Férol

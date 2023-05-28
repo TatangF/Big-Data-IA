@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/31e1fb12e884460599f7c1cd6b97386d/artifacts
+end_time: 1678350875713
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 31e1fb12e884460599f7c1cd6b97386d
+run_name: funny-grub-193
+run_uuid: 31e1fb12e884460599f7c1cd6b97386d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350871755
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/7d49402557ea4f02a7a1ef6db369b52e/artifacts
+end_time: 1678351475269
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 7d49402557ea4f02a7a1ef6db369b52e
+run_name: rebellious-wasp-508
+run_uuid: 7d49402557ea4f02a7a1ef6db369b52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351471284
+status: 3
+tags: []
+user_id: Férol

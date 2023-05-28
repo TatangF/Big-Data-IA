@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/d4086e77f80d4c29942698511ed021a2/artifacts
+end_time: 1678353341310
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: d4086e77f80d4c29942698511ed021a2
+run_name: whimsical-fawn-326
+run_uuid: d4086e77f80d4c29942698511ed021a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353337263
+status: 3
+tags: []
+user_id: Férol

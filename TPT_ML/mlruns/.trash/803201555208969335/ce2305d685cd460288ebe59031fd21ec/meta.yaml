@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ce2305d685cd460288ebe59031fd21ec/artifacts
+end_time: 1678353826705
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ce2305d685cd460288ebe59031fd21ec
+run_name: nosy-kit-322
+run_uuid: ce2305d685cd460288ebe59031fd21ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353822828
+status: 3
+tags: []
+user_id: Férol

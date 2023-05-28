@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/f17d7dc6a0d24ec5b0e87d9ea79a3aaa/artifacts
+end_time: 1678352968022
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: f17d7dc6a0d24ec5b0e87d9ea79a3aaa
+run_name: redolent-seal-773
+run_uuid: f17d7dc6a0d24ec5b0e87d9ea79a3aaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352964068
+status: 3
+tags: []
+user_id: Férol

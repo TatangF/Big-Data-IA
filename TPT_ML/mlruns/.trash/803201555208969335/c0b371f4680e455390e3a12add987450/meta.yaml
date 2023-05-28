@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c0b371f4680e455390e3a12add987450/artifacts
+end_time: 1678352430630
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c0b371f4680e455390e3a12add987450
+run_name: omniscient-newt-86
+run_uuid: c0b371f4680e455390e3a12add987450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352426813
+status: 3
+tags: []
+user_id: Férol

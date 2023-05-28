@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/b0ffc308a630468aa505e34b56f6d9e8/artifacts
+end_time: 1678353473901
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: b0ffc308a630468aa505e34b56f6d9e8
+run_name: peaceful-flea-201
+run_uuid: b0ffc308a630468aa505e34b56f6d9e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353469058
+status: 3
+tags: []
+user_id: Férol

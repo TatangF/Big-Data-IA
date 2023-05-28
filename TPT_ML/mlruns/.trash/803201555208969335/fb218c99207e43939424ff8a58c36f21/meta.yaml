@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/fb218c99207e43939424ff8a58c36f21/artifacts
+end_time: 1678352139025
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: fb218c99207e43939424ff8a58c36f21
+run_name: nebulous-boar-787
+run_uuid: fb218c99207e43939424ff8a58c36f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352135106
+status: 3
+tags: []
+user_id: Férol

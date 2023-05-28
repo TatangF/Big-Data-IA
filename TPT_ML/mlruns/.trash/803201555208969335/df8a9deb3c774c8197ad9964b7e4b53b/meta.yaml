@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/df8a9deb3c774c8197ad9964b7e4b53b/artifacts
+end_time: 1678352551814
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: df8a9deb3c774c8197ad9964b7e4b53b
+run_name: gifted-grouse-72
+run_uuid: df8a9deb3c774c8197ad9964b7e4b53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352548030
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/b66f786d303a4ee1b2c99771a49cfc07/artifacts
+end_time: 1678353628248
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: b66f786d303a4ee1b2c99771a49cfc07
+run_name: able-gull-222
+run_uuid: b66f786d303a4ee1b2c99771a49cfc07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353624193
+status: 3
+tags: []
+user_id: Férol

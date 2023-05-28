@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/09edf8d13976478db34053976e5474b7/artifacts
+end_time: 1678353377663
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 09edf8d13976478db34053976e5474b7
+run_name: gentle-tern-29
+run_uuid: 09edf8d13976478db34053976e5474b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353373623
+status: 3
+tags: []
+user_id: Férol

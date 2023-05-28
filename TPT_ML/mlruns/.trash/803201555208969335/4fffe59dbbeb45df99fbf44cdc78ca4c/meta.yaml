@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/4fffe59dbbeb45df99fbf44cdc78ca4c/artifacts
+end_time: 1678350538589
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 4fffe59dbbeb45df99fbf44cdc78ca4c
+run_name: tasteful-steed-186
+run_uuid: 4fffe59dbbeb45df99fbf44cdc78ca4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350533958
+status: 3
+tags: []
+user_id: Férol

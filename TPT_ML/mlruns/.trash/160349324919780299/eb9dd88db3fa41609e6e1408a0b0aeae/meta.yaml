@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/160349324919780299/eb9dd88db3fa41609e6e1408a0b0aeae/artifacts
+end_time: 1678317129101
+entry_point_name: ''
+experiment_id: '160349324919780299'
+lifecycle_stage: active
+run_id: eb9dd88db3fa41609e6e1408a0b0aeae
+run_name: mysterious-bug-217
+run_uuid: eb9dd88db3fa41609e6e1408a0b0aeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678317129038
+status: 4
+tags: []
+user_id: Férol

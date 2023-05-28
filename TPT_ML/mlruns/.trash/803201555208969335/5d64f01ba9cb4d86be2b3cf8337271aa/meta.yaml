@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/5d64f01ba9cb4d86be2b3cf8337271aa/artifacts
+end_time: 1678351681584
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 5d64f01ba9cb4d86be2b3cf8337271aa
+run_name: polite-bear-93
+run_uuid: 5d64f01ba9cb4d86be2b3cf8337271aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351677697
+status: 3
+tags: []
+user_id: Férol

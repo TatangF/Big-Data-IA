@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a9108a27f3c342a3aca7405b774d792b/artifacts
+end_time: 1678350372950
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a9108a27f3c342a3aca7405b774d792b
+run_name: thundering-dog-398
+run_uuid: a9108a27f3c342a3aca7405b774d792b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350368485
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/deb4be2138bd4cff8f4408d26bc51beb/artifacts
+end_time: 1678352422996
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: deb4be2138bd4cff8f4408d26bc51beb
+run_name: redolent-cow-619
+run_uuid: deb4be2138bd4cff8f4408d26bc51beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352419214
+status: 3
+tags: []
+user_id: Férol

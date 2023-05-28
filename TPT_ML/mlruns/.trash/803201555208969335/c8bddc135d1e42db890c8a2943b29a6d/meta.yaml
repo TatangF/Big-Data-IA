@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c8bddc135d1e42db890c8a2943b29a6d/artifacts
+end_time: 1678353782044
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c8bddc135d1e42db890c8a2943b29a6d
+run_name: thundering-snail-664
+run_uuid: c8bddc135d1e42db890c8a2943b29a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353777761
+status: 3
+tags: []
+user_id: Férol

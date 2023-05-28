@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/e57290c3a89647bfb294897d80dec184/artifacts
+end_time: 1678352385091
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: e57290c3a89647bfb294897d80dec184
+run_name: bright-mare-213
+run_uuid: e57290c3a89647bfb294897d80dec184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352381210
+status: 3
+tags: []
+user_id: Férol

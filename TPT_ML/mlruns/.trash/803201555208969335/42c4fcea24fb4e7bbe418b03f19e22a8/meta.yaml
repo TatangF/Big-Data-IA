@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/42c4fcea24fb4e7bbe418b03f19e22a8/artifacts
+end_time: 1678353210639
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 42c4fcea24fb4e7bbe418b03f19e22a8
+run_name: rare-ant-63
+run_uuid: 42c4fcea24fb4e7bbe418b03f19e22a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353206461
+status: 3
+tags: []
+user_id: Férol

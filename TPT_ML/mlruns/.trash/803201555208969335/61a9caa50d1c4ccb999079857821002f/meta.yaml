@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/61a9caa50d1c4ccb999079857821002f/artifacts
+end_time: 1678350082961
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 61a9caa50d1c4ccb999079857821002f
+run_name: funny-smelt-294
+run_uuid: 61a9caa50d1c4ccb999079857821002f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350078890
+status: 3
+tags: []
+user_id: Férol

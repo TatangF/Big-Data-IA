@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/5f3381a54a1747d090a8d9186b3f4663/artifacts
+end_time: 1678351943043
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 5f3381a54a1747d090a8d9186b3f4663
+run_name: fearless-croc-141
+run_uuid: 5f3381a54a1747d090a8d9186b3f4663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351938866
+status: 3
+tags: []
+user_id: Férol

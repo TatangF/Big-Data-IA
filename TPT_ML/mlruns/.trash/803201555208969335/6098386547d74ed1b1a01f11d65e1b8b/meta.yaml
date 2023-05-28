@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/6098386547d74ed1b1a01f11d65e1b8b/artifacts
+end_time: 1678352639721
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 6098386547d74ed1b1a01f11d65e1b8b
+run_name: smiling-croc-155
+run_uuid: 6098386547d74ed1b1a01f11d65e1b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352635951
+status: 3
+tags: []
+user_id: Férol

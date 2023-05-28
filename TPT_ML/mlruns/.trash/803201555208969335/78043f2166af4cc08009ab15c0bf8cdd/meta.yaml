@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/78043f2166af4cc08009ab15c0bf8cdd/artifacts
+end_time: 1678350006330
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 78043f2166af4cc08009ab15c0bf8cdd
+run_name: capable-skink-942
+run_uuid: 78043f2166af4cc08009ab15c0bf8cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678349999518
+status: 3
+tags: []
+user_id: Férol

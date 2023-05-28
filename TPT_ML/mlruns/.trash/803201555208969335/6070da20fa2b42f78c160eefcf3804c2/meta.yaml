@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/6070da20fa2b42f78c160eefcf3804c2/artifacts
+end_time: 1678352909285
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 6070da20fa2b42f78c160eefcf3804c2
+run_name: calm-bass-107
+run_uuid: 6070da20fa2b42f78c160eefcf3804c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352905394
+status: 3
+tags: []
+user_id: Férol

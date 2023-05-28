@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a380e17242a8479ea1926d3988e7b620/artifacts
+end_time: 1678350247934
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a380e17242a8479ea1926d3988e7b620
+run_name: judicious-moose-820
+run_uuid: a380e17242a8479ea1926d3988e7b620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350243989
+status: 3
+tags: []
+user_id: Férol

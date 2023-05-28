@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/6e272e5cfc804128a6fb453be8cc5fe0/artifacts
+end_time: 1678351411881
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 6e272e5cfc804128a6fb453be8cc5fe0
+run_name: resilient-rat-125
+run_uuid: 6e272e5cfc804128a6fb453be8cc5fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351407890
+status: 3
+tags: []
+user_id: Férol

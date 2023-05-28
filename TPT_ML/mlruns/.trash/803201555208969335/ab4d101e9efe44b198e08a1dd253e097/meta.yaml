@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ab4d101e9efe44b198e08a1dd253e097/artifacts
+end_time: 1678351998281
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ab4d101e9efe44b198e08a1dd253e097
+run_name: rogue-gnat-231
+run_uuid: ab4d101e9efe44b198e08a1dd253e097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351994149
+status: 3
+tags: []
+user_id: Férol

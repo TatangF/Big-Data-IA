@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/3cddd11622554abe890af8ed30bfacc3/artifacts
+end_time: 1678353632223
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 3cddd11622554abe890af8ed30bfacc3
+run_name: sedate-lamb-493
+run_uuid: 3cddd11622554abe890af8ed30bfacc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353628263
+status: 3
+tags: []
+user_id: Férol

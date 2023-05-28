@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/cdfd550df7cf4c56bfe95a6bc7e9c559/artifacts
+end_time: 1678353753120
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: cdfd550df7cf4c56bfe95a6bc7e9c559
+run_name: indecisive-rook-383
+run_uuid: cdfd550df7cf4c56bfe95a6bc7e9c559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353749055
+status: 3
+tags: []
+user_id: Férol

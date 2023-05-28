@@ -1,0 +1,8 @@
+VotingClassifier(estimators=[('rf',
+                              Pipeline(steps=[('randomforestclassifier',
+                                               RandomForestClassifier(n_estimators=500,
+                                                                      random_state=0))])),
+                             ('ada',
+                              Pipeline(steps=[('adaboostclassifier',
+                                               AdaBoostClassifier(n_estimators=200,
+                   ...

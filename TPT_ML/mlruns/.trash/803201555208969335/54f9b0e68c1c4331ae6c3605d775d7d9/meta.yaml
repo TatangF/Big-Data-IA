@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/54f9b0e68c1c4331ae6c3605d775d7d9/artifacts
+end_time: 1678351947014
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 54f9b0e68c1c4331ae6c3605d775d7d9
+run_name: rogue-carp-143
+run_uuid: 54f9b0e68c1c4331ae6c3605d775d7d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351943055
+status: 3
+tags: []
+user_id: Férol

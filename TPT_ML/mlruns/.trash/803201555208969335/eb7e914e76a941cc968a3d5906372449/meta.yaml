@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/eb7e914e76a941cc968a3d5906372449/artifacts
+end_time: 1678350480160
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: eb7e914e76a941cc968a3d5906372449
+run_name: beautiful-crane-600
+run_uuid: eb7e914e76a941cc968a3d5906372449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350475683
+status: 3
+tags: []
+user_id: Férol

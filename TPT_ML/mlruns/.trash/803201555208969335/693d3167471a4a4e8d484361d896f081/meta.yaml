@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/693d3167471a4a4e8d484361d896f081/artifacts
+end_time: 1678350796442
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 693d3167471a4a4e8d484361d896f081
+run_name: burly-rat-569
+run_uuid: 693d3167471a4a4e8d484361d896f081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350791830
+status: 3
+tags: []
+user_id: Férol

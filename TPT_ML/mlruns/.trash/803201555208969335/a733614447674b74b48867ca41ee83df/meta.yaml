@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a733614447674b74b48867ca41ee83df/artifacts
+end_time: 1678350547583
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a733614447674b74b48867ca41ee83df
+run_name: caring-tern-192
+run_uuid: a733614447674b74b48867ca41ee83df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350543522
+status: 3
+tags: []
+user_id: Férol

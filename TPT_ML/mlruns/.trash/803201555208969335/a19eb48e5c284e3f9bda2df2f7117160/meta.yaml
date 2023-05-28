@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a19eb48e5c284e3f9bda2df2f7117160/artifacts
+end_time: 1678351721162
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a19eb48e5c284e3f9bda2df2f7117160
+run_name: mercurial-conch-559
+run_uuid: a19eb48e5c284e3f9bda2df2f7117160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351717230
+status: 3
+tags: []
+user_id: Férol

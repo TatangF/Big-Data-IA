@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/2f09ab307eee40ceb686f9e1eb93587c/artifacts
+end_time: 1678353432954
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 2f09ab307eee40ceb686f9e1eb93587c
+run_name: redolent-koi-239
+run_uuid: 2f09ab307eee40ceb686f9e1eb93587c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353429095
+status: 3
+tags: []
+user_id: Férol

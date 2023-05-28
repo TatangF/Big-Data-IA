@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/747941560073180994/d0cd9f5f34b4447ba8ad5ef70d4f6aee/artifacts
+end_time: 1678318578486
+entry_point_name: ''
+experiment_id: '747941560073180994'
+lifecycle_stage: active
+run_id: d0cd9f5f34b4447ba8ad5ef70d4f6aee
+run_name: gregarious-cub-915
+run_uuid: d0cd9f5f34b4447ba8ad5ef70d4f6aee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678318578426
+status: 4
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/6f0f7a2058b342239b9e89fa9ef8e8d9/artifacts
+end_time: 1678353284872
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 6f0f7a2058b342239b9e89fa9ef8e8d9
+run_name: flawless-frog-547
+run_uuid: 6f0f7a2058b342239b9e89fa9ef8e8d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353280996
+status: 3
+tags: []
+user_id: Férol

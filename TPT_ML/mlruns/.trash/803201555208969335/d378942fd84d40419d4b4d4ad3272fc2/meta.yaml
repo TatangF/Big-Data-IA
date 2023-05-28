@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/d378942fd84d40419d4b4d4ad3272fc2/artifacts
+end_time: 1678350867828
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: d378942fd84d40419d4b4d4ad3272fc2
+run_name: bedecked-lamb-291
+run_uuid: d378942fd84d40419d4b4d4ad3272fc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350863956
+status: 3
+tags: []
+user_id: Férol

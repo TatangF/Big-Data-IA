@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/96f52259c8614c14b58886f0c2641d0d/artifacts
+end_time: 1678350515988
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 96f52259c8614c14b58886f0c2641d0d
+run_name: luminous-foal-17
+run_uuid: 96f52259c8614c14b58886f0c2641d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350511364
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/f9b4b784dc4d428c98ba01cdf8f1e9ab/artifacts
+end_time: 1678353125649
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: f9b4b784dc4d428c98ba01cdf8f1e9ab
+run_name: wise-conch-835
+run_uuid: f9b4b784dc4d428c98ba01cdf8f1e9ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353121787
+status: 3
+tags: []
+user_id: Férol

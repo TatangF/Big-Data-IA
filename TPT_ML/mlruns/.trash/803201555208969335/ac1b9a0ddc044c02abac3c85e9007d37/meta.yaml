@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ac1b9a0ddc044c02abac3c85e9007d37/artifacts
+end_time: 1678352177911
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ac1b9a0ddc044c02abac3c85e9007d37
+run_name: skittish-mink-944
+run_uuid: ac1b9a0ddc044c02abac3c85e9007d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352174058
+status: 3
+tags: []
+user_id: Férol

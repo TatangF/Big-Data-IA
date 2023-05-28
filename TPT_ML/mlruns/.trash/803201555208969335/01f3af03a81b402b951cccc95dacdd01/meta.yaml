@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/01f3af03a81b402b951cccc95dacdd01/artifacts
+end_time: 1678351822820
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 01f3af03a81b402b951cccc95dacdd01
+run_name: sedate-robin-145
+run_uuid: 01f3af03a81b402b951cccc95dacdd01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351818617
+status: 3
+tags: []
+user_id: Férol

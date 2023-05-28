@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/747941560073180994/7518696a029c4b26b904882fe44fe71d/artifacts
+end_time: 1678318547970
+entry_point_name: ''
+experiment_id: '747941560073180994'
+lifecycle_stage: active
+run_id: 7518696a029c4b26b904882fe44fe71d
+run_name: rumbling-finch-318
+run_uuid: 7518696a029c4b26b904882fe44fe71d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678318547890
+status: 4
+tags: []
+user_id: Férol

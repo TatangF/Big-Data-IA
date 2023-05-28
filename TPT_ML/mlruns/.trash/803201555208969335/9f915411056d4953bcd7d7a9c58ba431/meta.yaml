@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/9f915411056d4953bcd7d7a9c58ba431/artifacts
+end_time: 1678352111303
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 9f915411056d4953bcd7d7a9c58ba431
+run_name: casual-midge-341
+run_uuid: 9f915411056d4953bcd7d7a9c58ba431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352107522
+status: 3
+tags: []
+user_id: Férol

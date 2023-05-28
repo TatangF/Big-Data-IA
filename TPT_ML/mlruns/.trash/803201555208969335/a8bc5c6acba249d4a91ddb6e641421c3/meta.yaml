@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a8bc5c6acba249d4a91ddb6e641421c3/artifacts
+end_time: 1678352616862
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a8bc5c6acba249d4a91ddb6e641421c3
+run_name: omniscient-panda-678
+run_uuid: a8bc5c6acba249d4a91ddb6e641421c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352613135
+status: 3
+tags: []
+user_id: Férol

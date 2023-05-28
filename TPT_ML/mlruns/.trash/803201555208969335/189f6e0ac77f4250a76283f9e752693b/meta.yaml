@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/189f6e0ac77f4250a76283f9e752693b/artifacts
+end_time: 1678353121774
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 189f6e0ac77f4250a76283f9e752693b
+run_name: loud-asp-354
+run_uuid: 189f6e0ac77f4250a76283f9e752693b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353117657
+status: 3
+tags: []
+user_id: Férol

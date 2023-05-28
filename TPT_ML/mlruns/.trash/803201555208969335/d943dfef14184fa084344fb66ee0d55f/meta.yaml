@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/d943dfef14184fa084344fb66ee0d55f/artifacts
+end_time: 1678353007517
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: d943dfef14184fa084344fb66ee0d55f
+run_name: handsome-croc-180
+run_uuid: d943dfef14184fa084344fb66ee0d55f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353003478
+status: 3
+tags: []
+user_id: Férol

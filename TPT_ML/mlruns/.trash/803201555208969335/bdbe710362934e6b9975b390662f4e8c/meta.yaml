@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/bdbe710362934e6b9975b390662f4e8c/artifacts
+end_time: 1678353616003
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: bdbe710362934e6b9975b390662f4e8c
+run_name: crawling-trout-963
+run_uuid: bdbe710362934e6b9975b390662f4e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353611410
+status: 3
+tags: []
+user_id: Férol

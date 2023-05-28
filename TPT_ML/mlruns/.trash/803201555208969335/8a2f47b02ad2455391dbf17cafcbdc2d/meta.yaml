@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/8a2f47b02ad2455391dbf17cafcbdc2d/artifacts
+end_time: 1678351133893
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 8a2f47b02ad2455391dbf17cafcbdc2d
+run_name: smiling-rat-975
+run_uuid: 8a2f47b02ad2455391dbf17cafcbdc2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351130058
+status: 3
+tags: []
+user_id: Férol

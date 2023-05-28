@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/4f82842fd82946ad8483b8d6fd91cf17/artifacts
+end_time: 1678349961396
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 4f82842fd82946ad8483b8d6fd91cf17
+run_name: salty-hog-650
+run_uuid: 4f82842fd82946ad8483b8d6fd91cf17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678349957355
+status: 3
+tags: []
+user_id: Férol

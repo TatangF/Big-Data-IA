@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ae8d98ae00c74a4fb6e4ffde9a371465/artifacts
+end_time: 1678353056528
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ae8d98ae00c74a4fb6e4ffde9a371465
+run_name: luminous-snail-872
+run_uuid: ae8d98ae00c74a4fb6e4ffde9a371465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353052598
+status: 3
+tags: []
+user_id: Férol

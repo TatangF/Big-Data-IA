@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/9b4ef4e417df47b8a8b9c6c3f50f551e/artifacts
+end_time: 1678350668625
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 9b4ef4e417df47b8a8b9c6c3f50f551e
+run_name: chill-smelt-172
+run_uuid: 9b4ef4e417df47b8a8b9c6c3f50f551e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350664711
+status: 3
+tags: []
+user_id: Férol

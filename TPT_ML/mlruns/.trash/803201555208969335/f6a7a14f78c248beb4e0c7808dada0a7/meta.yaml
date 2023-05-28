@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/f6a7a14f78c248beb4e0c7808dada0a7/artifacts
+end_time: 1678352446626
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: f6a7a14f78c248beb4e0c7808dada0a7
+run_name: bald-deer-736
+run_uuid: f6a7a14f78c248beb4e0c7808dada0a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352442760
+status: 3
+tags: []
+user_id: Férol

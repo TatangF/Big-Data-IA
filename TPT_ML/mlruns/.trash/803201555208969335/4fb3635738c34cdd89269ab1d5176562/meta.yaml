@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/4fb3635738c34cdd89269ab1d5176562/artifacts
+end_time: 1678351156963
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 4fb3635738c34cdd89269ab1d5176562
+run_name: bouncy-seal-492
+run_uuid: 4fb3635738c34cdd89269ab1d5176562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351152970
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/b61516d302ad41aeb8f1dc8485611037/artifacts
+end_time: 1678350159718
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: b61516d302ad41aeb8f1dc8485611037
+run_name: learned-lark-942
+run_uuid: b61516d302ad41aeb8f1dc8485611037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350155336
+status: 3
+tags: []
+user_id: Férol
