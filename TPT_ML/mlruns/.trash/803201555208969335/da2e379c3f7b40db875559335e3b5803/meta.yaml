@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/da2e379c3f7b40db875559335e3b5803/artifacts
+end_time: 1678351809785
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: da2e379c3f7b40db875559335e3b5803
+run_name: sassy-mole-521
+run_uuid: da2e379c3f7b40db875559335e3b5803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351805537
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/7c66d046a1ef4870afe76e67ae56bd7d/artifacts
+end_time: 1678351020365
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 7c66d046a1ef4870afe76e67ae56bd7d
+run_name: carefree-ant-57
+run_uuid: 7c66d046a1ef4870afe76e67ae56bd7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351012701
+status: 3
+tags: []
+user_id: Férol

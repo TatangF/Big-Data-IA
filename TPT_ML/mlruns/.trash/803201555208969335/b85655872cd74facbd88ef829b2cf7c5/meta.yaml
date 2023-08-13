@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/b85655872cd74facbd88ef829b2cf7c5/artifacts
+end_time: 1678351650091
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: b85655872cd74facbd88ef829b2cf7c5
+run_name: flawless-rat-742
+run_uuid: b85655872cd74facbd88ef829b2cf7c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351646176
+status: 3
+tags: []
+user_id: Férol

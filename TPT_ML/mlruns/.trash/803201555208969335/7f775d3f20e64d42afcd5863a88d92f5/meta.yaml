@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/7f775d3f20e64d42afcd5863a88d92f5/artifacts
+end_time: 1678351522380
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 7f775d3f20e64d42afcd5863a88d92f5
+run_name: charming-sloth-156
+run_uuid: 7f775d3f20e64d42afcd5863a88d92f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351518482
+status: 3
+tags: []
+user_id: Férol

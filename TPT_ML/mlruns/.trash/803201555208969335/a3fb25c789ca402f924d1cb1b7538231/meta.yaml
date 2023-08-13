@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a3fb25c789ca402f924d1cb1b7538231/artifacts
+end_time: 1678353486743
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a3fb25c789ca402f924d1cb1b7538231
+run_name: suave-turtle-695
+run_uuid: a3fb25c789ca402f924d1cb1b7538231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353482823
+status: 3
+tags: []
+user_id: Férol

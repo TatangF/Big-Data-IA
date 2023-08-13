@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/d1013fcc29704298ba5c98a7fe953eb7/artifacts
+end_time: 1678351709321
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: d1013fcc29704298ba5c98a7fe953eb7
+run_name: skillful-cub-674
+run_uuid: d1013fcc29704298ba5c98a7fe953eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351705374
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c0ceca007fac493680321b09a1518908/artifacts
+end_time: 1678351773565
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c0ceca007fac493680321b09a1518908
+run_name: secretive-turtle-615
+run_uuid: c0ceca007fac493680321b09a1518908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351769772
+status: 3
+tags: []
+user_id: Férol

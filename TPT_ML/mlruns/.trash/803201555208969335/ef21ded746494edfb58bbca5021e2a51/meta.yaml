@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ef21ded746494edfb58bbca5021e2a51/artifacts
+end_time: 1678351392064
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ef21ded746494edfb58bbca5021e2a51
+run_name: charming-hound-1000
+run_uuid: ef21ded746494edfb58bbca5021e2a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351388152
+status: 3
+tags: []
+user_id: Férol

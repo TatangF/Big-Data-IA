@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/4eb12ce812194d71b2e38c290902093b/artifacts
+end_time: 1678350704062
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 4eb12ce812194d71b2e38c290902093b
+run_name: luminous-hare-871
+run_uuid: 4eb12ce812194d71b2e38c290902093b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350699632
+status: 3
+tags: []
+user_id: Férol

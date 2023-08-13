@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/bd789f7e8fe146779d18545cee12a00d/artifacts
+end_time: 1678353170096
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: bd789f7e8fe146779d18545cee12a00d
+run_name: able-worm-859
+run_uuid: bd789f7e8fe146779d18545cee12a00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353166046
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/4d3bb019cfb94ad587aaf5d63ed04cef/artifacts
+end_time: 1678350417131
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 4d3bb019cfb94ad587aaf5d63ed04cef
+run_name: colorful-sponge-232
+run_uuid: 4d3bb019cfb94ad587aaf5d63ed04cef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350412883
+status: 3
+tags: []
+user_id: Férol

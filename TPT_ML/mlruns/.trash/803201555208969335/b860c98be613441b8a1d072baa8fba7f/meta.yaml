@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/b860c98be613441b8a1d072baa8fba7f/artifacts
+end_time: 1678352776843
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: b860c98be613441b8a1d072baa8fba7f
+run_name: suave-zebra-256
+run_uuid: b860c98be613441b8a1d072baa8fba7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352773034
+status: 3
+tags: []
+user_id: Férol

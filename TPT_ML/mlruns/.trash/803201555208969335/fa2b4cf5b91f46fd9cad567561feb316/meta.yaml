@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/fa2b4cf5b91f46fd9cad567561feb316/artifacts
+end_time: 1678350779872
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: fa2b4cf5b91f46fd9cad567561feb316
+run_name: big-shad-942
+run_uuid: fa2b4cf5b91f46fd9cad567561feb316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350776013
+status: 3
+tags: []
+user_id: Férol

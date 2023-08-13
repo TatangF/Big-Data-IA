@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/1ae4aa4410364361a51a7c8939fdefc3/artifacts
+end_time: 1678349897727
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 1ae4aa4410364361a51a7c8939fdefc3
+run_name: adorable-cub-980
+run_uuid: 1ae4aa4410364361a51a7c8939fdefc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678349893900
+status: 3
+tags: []
+user_id: Férol

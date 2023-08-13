@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c3c8e120604c4511b14c07762b86054a/artifacts
+end_time: 1678351130045
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c3c8e120604c4511b14c07762b86054a
+run_name: industrious-calf-341
+run_uuid: c3c8e120604c4511b14c07762b86054a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351126281
+status: 3
+tags: []
+user_id: Férol

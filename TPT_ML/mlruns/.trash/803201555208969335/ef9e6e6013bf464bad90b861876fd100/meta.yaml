@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ef9e6e6013bf464bad90b861876fd100/artifacts
+end_time: 1678353935922
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ef9e6e6013bf464bad90b861876fd100
+run_name: popular-seal-788
+run_uuid: ef9e6e6013bf464bad90b861876fd100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353932075
+status: 3
+tags: []
+user_id: Férol

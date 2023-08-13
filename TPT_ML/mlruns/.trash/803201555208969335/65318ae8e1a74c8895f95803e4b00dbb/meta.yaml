@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/65318ae8e1a74c8895f95803e4b00dbb/artifacts
+end_time: 1678352209070
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 65318ae8e1a74c8895f95803e4b00dbb
+run_name: brawny-skunk-568
+run_uuid: 65318ae8e1a74c8895f95803e4b00dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352205159
+status: 3
+tags: []
+user_id: Férol

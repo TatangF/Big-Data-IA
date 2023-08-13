@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a134273e014248e888b378407a26cda4/artifacts
+end_time: 1678352324427
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a134273e014248e888b378407a26cda4
+run_name: spiffy-skink-456
+run_uuid: a134273e014248e888b378407a26cda4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352320452
+status: 3
+tags: []
+user_id: Férol

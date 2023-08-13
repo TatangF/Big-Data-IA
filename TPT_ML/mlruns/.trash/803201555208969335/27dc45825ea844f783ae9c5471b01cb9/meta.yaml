@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/27dc45825ea844f783ae9c5471b01cb9/artifacts
+end_time: 1678352815614
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 27dc45825ea844f783ae9c5471b01cb9
+run_name: mercurial-flea-298
+run_uuid: 27dc45825ea844f783ae9c5471b01cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352811678
+status: 3
+tags: []
+user_id: Férol

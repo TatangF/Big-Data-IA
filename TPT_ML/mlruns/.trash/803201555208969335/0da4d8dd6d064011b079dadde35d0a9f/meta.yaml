@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/0da4d8dd6d064011b079dadde35d0a9f/artifacts
+end_time: 1678351494832
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 0da4d8dd6d064011b079dadde35d0a9f
+run_name: useful-crane-410
+run_uuid: 0da4d8dd6d064011b079dadde35d0a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351490866
+status: 3
+tags: []
+user_id: Férol

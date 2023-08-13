@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ec7495b81c504c348c4094fd9a6ebef5/artifacts
+end_time: 1678352628321
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ec7495b81c504c348c4094fd9a6ebef5
+run_name: nervous-cat-852
+run_uuid: ec7495b81c504c348c4094fd9a6ebef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352624546
+status: 3
+tags: []
+user_id: Férol

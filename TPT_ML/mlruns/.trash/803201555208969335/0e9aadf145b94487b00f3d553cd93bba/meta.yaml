@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/0e9aadf145b94487b00f3d553cd93bba/artifacts
+end_time: 1678351697494
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 0e9aadf145b94487b00f3d553cd93bba
+run_name: lyrical-whale-139
+run_uuid: 0e9aadf145b94487b00f3d553cd93bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351693386
+status: 3
+tags: []
+user_id: Férol

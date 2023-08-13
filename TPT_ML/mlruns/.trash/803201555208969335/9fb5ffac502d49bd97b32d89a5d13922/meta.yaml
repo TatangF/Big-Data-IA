@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/9fb5ffac502d49bd97b32d89a5d13922/artifacts
+end_time: 1678352388998
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 9fb5ffac502d49bd97b32d89a5d13922
+run_name: angry-tern-966
+run_uuid: 9fb5ffac502d49bd97b32d89a5d13922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352385107
+status: 3
+tags: []
+user_id: Férol

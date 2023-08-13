@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c5556cb7c95d49f4bd15d03a89762ea4/artifacts
+end_time: 1678352678724
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c5556cb7c95d49f4bd15d03a89762ea4
+run_name: casual-hare-650
+run_uuid: c5556cb7c95d49f4bd15d03a89762ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352674750
+status: 3
+tags: []
+user_id: Férol

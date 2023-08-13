@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/fbb6a920cd3943c2bc1096f12cbacda0/artifacts
+end_time: 1678352166170
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: fbb6a920cd3943c2bc1096f12cbacda0
+run_name: orderly-mouse-245
+run_uuid: fbb6a920cd3943c2bc1096f12cbacda0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352162195
+status: 3
+tags: []
+user_id: Férol

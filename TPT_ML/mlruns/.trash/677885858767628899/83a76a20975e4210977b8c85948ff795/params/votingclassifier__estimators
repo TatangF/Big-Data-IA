@@ -1,0 +1,2 @@
+[('rf', Pipeline(steps=[('randomforestclassifier',
+                 RandomForestClassifier(random_state=0))])), ('ada', Pipeline(steps=[('adaboostclassifier', AdaBoostClassifier(random_state=0))])), ('knn', Pipeline(steps=[('kneighborsclassifier', KNeighborsClassifier())]))]

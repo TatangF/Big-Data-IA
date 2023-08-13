@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/9689aae68b4945a19b87c68fa3a5a526/artifacts
+end_time: 1678352952513
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 9689aae68b4945a19b87c68fa3a5a526
+run_name: receptive-squid-623
+run_uuid: 9689aae68b4945a19b87c68fa3a5a526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352948720
+status: 3
+tags: []
+user_id: Férol

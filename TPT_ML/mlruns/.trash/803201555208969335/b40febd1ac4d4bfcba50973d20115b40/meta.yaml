@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/b40febd1ac4d4bfcba50973d20115b40/artifacts
+end_time: 1678350335803
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: b40febd1ac4d4bfcba50973d20115b40
+run_name: nimble-wasp-898
+run_uuid: b40febd1ac4d4bfcba50973d20115b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350331506
+status: 3
+tags: []
+user_id: Férol

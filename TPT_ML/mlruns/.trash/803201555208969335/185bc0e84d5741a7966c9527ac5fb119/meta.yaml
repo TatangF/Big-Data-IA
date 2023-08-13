@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/185bc0e84d5741a7966c9527ac5fb119/artifacts
+end_time: 1678351982280
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 185bc0e84d5741a7966c9527ac5fb119
+run_name: bald-donkey-997
+run_uuid: 185bc0e84d5741a7966c9527ac5fb119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351978328
+status: 3
+tags: []
+user_id: Férol

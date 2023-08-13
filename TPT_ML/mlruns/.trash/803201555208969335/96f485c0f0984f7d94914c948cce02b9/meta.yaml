@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/96f485c0f0984f7d94914c948cce02b9/artifacts
+end_time: 1678350412870
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 96f485c0f0984f7d94914c948cce02b9
+run_name: crawling-fly-446
+run_uuid: 96f485c0f0984f7d94914c948cce02b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350408337
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/d6cfc797ee2e499287a3d91290549c6d/artifacts
+end_time: 1678352999645
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: d6cfc797ee2e499287a3d91290549c6d
+run_name: nimble-fish-759
+run_uuid: d6cfc797ee2e499287a3d91290549c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352995789
+status: 3
+tags: []
+user_id: Férol

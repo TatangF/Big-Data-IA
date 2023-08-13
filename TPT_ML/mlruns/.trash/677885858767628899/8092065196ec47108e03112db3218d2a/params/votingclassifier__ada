@@ -1,0 +1,2 @@
+Pipeline(steps=[('adaboostclassifier',
+                 AdaBoostClassifier(n_estimators=200, random_state=0))])

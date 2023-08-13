@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/9892bc4cfae5476980c02f627476de16/artifacts
+end_time: 1678353566735
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 9892bc4cfae5476980c02f627476de16
+run_name: rumbling-lark-460
+run_uuid: 9892bc4cfae5476980c02f627476de16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353562825
+status: 3
+tags: []
+user_id: Férol

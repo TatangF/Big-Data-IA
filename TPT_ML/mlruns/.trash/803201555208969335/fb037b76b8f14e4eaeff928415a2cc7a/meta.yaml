@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/fb037b76b8f14e4eaeff928415a2cc7a/artifacts
+end_time: 1678351665857
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: fb037b76b8f14e4eaeff928415a2cc7a
+run_name: clumsy-bear-50
+run_uuid: fb037b76b8f14e4eaeff928415a2cc7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351661933
+status: 3
+tags: []
+user_id: Férol

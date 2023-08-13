@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/cdf2603aa1e64dba8d38f22616a5acfa/artifacts
+end_time: 1678351145461
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: cdf2603aa1e64dba8d38f22616a5acfa
+run_name: serious-mole-986
+run_uuid: cdf2603aa1e64dba8d38f22616a5acfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351141532
+status: 3
+tags: []
+user_id: Férol

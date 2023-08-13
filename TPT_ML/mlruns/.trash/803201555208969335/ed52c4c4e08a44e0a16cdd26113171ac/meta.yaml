@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ed52c4c4e08a44e0a16cdd26113171ac/artifacts
+end_time: 1678351435437
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ed52c4c4e08a44e0a16cdd26113171ac
+run_name: learned-seal-205
+run_uuid: ed52c4c4e08a44e0a16cdd26113171ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351431483
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c48a7b9635204283ac13b68fa8f4dedd/artifacts
+end_time: 1678353736549
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c48a7b9635204283ac13b68fa8f4dedd
+run_name: adaptable-elk-946
+run_uuid: c48a7b9635204283ac13b68fa8f4dedd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353732550
+status: 3
+tags: []
+user_id: Férol

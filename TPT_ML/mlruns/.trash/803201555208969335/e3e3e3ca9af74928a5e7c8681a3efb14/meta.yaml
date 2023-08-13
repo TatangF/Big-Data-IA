@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/e3e3e3ca9af74928a5e7c8681a3efb14/artifacts
+end_time: 1678353867095
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: e3e3e3ca9af74928a5e7c8681a3efb14
+run_name: grandiose-sponge-79
+run_uuid: e3e3e3ca9af74928a5e7c8681a3efb14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353863030
+status: 3
+tags: []
+user_id: Férol

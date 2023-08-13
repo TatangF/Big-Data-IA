@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/85cdf23b378e4ba3bf7914d68f28c06e/artifacts
+end_time: 1678351095495
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 85cdf23b378e4ba3bf7914d68f28c06e
+run_name: likeable-swan-812
+run_uuid: 85cdf23b378e4ba3bf7914d68f28c06e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351091288
+status: 3
+tags: []
+user_id: Férol

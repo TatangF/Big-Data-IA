@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/440f057e0e4b4ae2840dc83190b64242/artifacts
+end_time: 1678353145538
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 440f057e0e4b4ae2840dc83190b64242
+run_name: receptive-kite-422
+run_uuid: 440f057e0e4b4ae2840dc83190b64242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353141606
+status: 3
+tags: []
+user_id: Férol

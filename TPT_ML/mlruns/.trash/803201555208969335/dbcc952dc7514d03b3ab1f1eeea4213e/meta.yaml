@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/dbcc952dc7514d03b3ab1f1eeea4213e/artifacts
+end_time: 1678349949121
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: dbcc952dc7514d03b3ab1f1eeea4213e
+run_name: mercurial-cow-671
+run_uuid: dbcc952dc7514d03b3ab1f1eeea4213e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678349945145
+status: 3
+tags: []
+user_id: Férol

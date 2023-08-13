@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/46c6ec5e66664a36b742113f84b8499c/artifacts
+end_time: 1678351063404
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 46c6ec5e66664a36b742113f84b8499c
+run_name: carefree-pug-58
+run_uuid: 46c6ec5e66664a36b742113f84b8499c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351059476
+status: 3
+tags: []
+user_id: Férol

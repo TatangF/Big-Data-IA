@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/d50bd6d9e21e480fb8a737e8de53d72e/artifacts
+end_time: 1678352354018
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: d50bd6d9e21e480fb8a737e8de53d72e
+run_name: colorful-turtle-526
+run_uuid: d50bd6d9e21e480fb8a737e8de53d72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352350075
+status: 3
+tags: []
+user_id: Férol

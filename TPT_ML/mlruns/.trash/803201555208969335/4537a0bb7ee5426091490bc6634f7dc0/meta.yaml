@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/4537a0bb7ee5426091490bc6634f7dc0/artifacts
+end_time: 1678352834689
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 4537a0bb7ee5426091490bc6634f7dc0
+run_name: whimsical-snipe-109
+run_uuid: 4537a0bb7ee5426091490bc6634f7dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352830846
+status: 3
+tags: []
+user_id: Férol

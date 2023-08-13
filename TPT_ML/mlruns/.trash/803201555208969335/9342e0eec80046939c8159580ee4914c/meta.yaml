@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/9342e0eec80046939c8159580ee4914c/artifacts
+end_time: 1678350399509
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 9342e0eec80046939c8159580ee4914c
+run_name: flawless-stag-383
+run_uuid: 9342e0eec80046939c8159580ee4914c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350395276
+status: 3
+tags: []
+user_id: Férol

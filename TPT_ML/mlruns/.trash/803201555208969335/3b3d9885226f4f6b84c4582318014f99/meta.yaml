@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/3b3d9885226f4f6b84c4582318014f99/artifacts
+end_time: 1678351246938
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 3b3d9885226f4f6b84c4582318014f99
+run_name: powerful-worm-841
+run_uuid: 3b3d9885226f4f6b84c4582318014f99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351243151
+status: 3
+tags: []
+user_id: Férol

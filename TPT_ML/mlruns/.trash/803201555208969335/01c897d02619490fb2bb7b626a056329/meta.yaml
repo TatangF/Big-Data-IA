@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/01c897d02619490fb2bb7b626a056329/artifacts
+end_time: 1678353465061
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 01c897d02619490fb2bb7b626a056329
+run_name: capable-stoat-694
+run_uuid: 01c897d02619490fb2bb7b626a056329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353461244
+status: 3
+tags: []
+user_id: Férol

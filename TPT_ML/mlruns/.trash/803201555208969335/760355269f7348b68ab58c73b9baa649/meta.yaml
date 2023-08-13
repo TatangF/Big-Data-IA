@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/760355269f7348b68ab58c73b9baa649/artifacts
+end_time: 1678350560670
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 760355269f7348b68ab58c73b9baa649
+run_name: rogue-dog-552
+run_uuid: 760355269f7348b68ab58c73b9baa649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350555939
+status: 3
+tags: []
+user_id: Férol

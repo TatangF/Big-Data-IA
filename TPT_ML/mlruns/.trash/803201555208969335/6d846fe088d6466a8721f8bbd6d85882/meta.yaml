@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/6d846fe088d6466a8721f8bbd6d85882/artifacts
+end_time: 1678352575159
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 6d846fe088d6466a8721f8bbd6d85882
+run_name: spiffy-moth-684
+run_uuid: 6d846fe088d6466a8721f8bbd6d85882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352571003
+status: 3
+tags: []
+user_id: Férol

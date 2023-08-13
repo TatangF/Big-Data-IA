@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/8d352bd6f6104e6ab8fce6eb41a7ef54/artifacts
+end_time: 1678349973326
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 8d352bd6f6104e6ab8fce6eb41a7ef54
+run_name: flawless-smelt-497
+run_uuid: 8d352bd6f6104e6ab8fce6eb41a7ef54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678349969421
+status: 3
+tags: []
+user_id: Férol

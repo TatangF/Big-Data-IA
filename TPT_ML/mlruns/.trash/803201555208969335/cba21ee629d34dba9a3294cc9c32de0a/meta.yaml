@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/cba21ee629d34dba9a3294cc9c32de0a/artifacts
+end_time: 1678353883297
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: cba21ee629d34dba9a3294cc9c32de0a
+run_name: dapper-quail-542
+run_uuid: cba21ee629d34dba9a3294cc9c32de0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353879384
+status: 3
+tags: []
+user_id: Férol

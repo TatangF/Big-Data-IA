@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/0f1f3a06e0a24c84b07d5344d788e174/artifacts
+end_time: 1678351365058
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 0f1f3a06e0a24c84b07d5344d788e174
+run_name: adaptable-skink-576
+run_uuid: 0f1f3a06e0a24c84b07d5344d788e174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351361144
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/e6a452e062114bffa6c50daa59d6fad9/artifacts
+end_time: 1678351566808
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: e6a452e062114bffa6c50daa59d6fad9
+run_name: judicious-cow-705
+run_uuid: e6a452e062114bffa6c50daa59d6fad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351562336
+status: 3
+tags: []
+user_id: Férol

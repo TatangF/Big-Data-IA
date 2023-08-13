@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c42fd0f2a87a49d197ff6b47bf24382e/artifacts
+end_time: 1678352304362
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c42fd0f2a87a49d197ff6b47bf24382e
+run_name: debonair-sheep-537
+run_uuid: c42fd0f2a87a49d197ff6b47bf24382e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352300536
+status: 3
+tags: []
+user_id: Férol

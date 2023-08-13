@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/05935af0a55642cab8d44dbe60816aa1/artifacts
+end_time: 1678351030264
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 05935af0a55642cab8d44dbe60816aa1
+run_name: merciful-smelt-196
+run_uuid: 05935af0a55642cab8d44dbe60816aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351025541
+status: 3
+tags: []
+user_id: Férol

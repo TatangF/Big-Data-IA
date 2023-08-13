@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/feefdbb7603b4fcc811f7b5fbe9e5f49/artifacts
+end_time: 1678350612667
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: feefdbb7603b4fcc811f7b5fbe9e5f49
+run_name: masked-goose-800
+run_uuid: feefdbb7603b4fcc811f7b5fbe9e5f49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350608785
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,438 @@
+,Marque / Modele,Bonus / Malus,Rejets CO2 g/km,Cout enerie
+2,AUDI E-TRON SPORTBACK 55 (408ch) quattro,-6Â 000â‚¬Â 1,0,319Â â‚¬
+3,AUDI E-TRON SPORTBACK 50 (313ch) quattro,-6Â 000â‚¬Â 1,0,356Â â‚¬
+4,AUDI E-TRON 55 (408ch) quattro,-6Â 000â‚¬Â 1,0,357Â â‚¬
+5,AUDI E-TRON 50 (313ch) quattro,-6Â 000â‚¬Â 1,0,356Â â‚¬
+6,BMW i3 120 Ah,-6Â 000â‚¬Â 1,0,204Â â‚¬
+7,BMW i3s 120 Ah,-6Â 000â‚¬Â 1,0,204Â â‚¬
+8,CITROEN BERLINGO,-6Â 000â‚¬Â 1,0,203Â â‚¬
+9,CITROEN C-ZERO,-6Â 000â‚¬Â 1,0,491Â â‚¬
+10,DS DS3 CROSSBACK E-Tense (136ch),-6Â 000â‚¬Â 1,0,251Â â‚¬
+11,HYUNDAI KONA electric 64 kWh,-6Â 000â‚¬Â 1,0,205Â â‚¬
+12,HYUNDAI KONA electric 39 kWh,-6Â 000â‚¬Â 1,0,205Â â‚¬
+13,JAGUAR I-PACE EV400 (400 CEE) - Automatique - 4 roues motrices,-6Â 000â‚¬Â 1,0,271Â â‚¬
+14,"KIA e-NIRO Moteur ÃƒÂ©lectrique synchrone ÃƒÂ  aimant permanent, 150kW (204ch)",-6Â 000â‚¬Â 1,0,212Â â‚¬
+15,"KIA e-NIRO Moteur ÃƒÂ©lectrique synchrone ÃƒÂ  aimant permanent, 100kW (136ch)",-6Â 000â‚¬Â 1,0,203Â â‚¬
+16,KIA SOUL Moteur ÃƒÂ©lectrique 150 kW (204ch),-6Â 000â‚¬Â 1,0,214Â â‚¬
+17,KIA SOUL Moteur ÃƒÂ©lectrique 100kW (136ch),-6Â 000â‚¬Â 1,0,214Â â‚¬
+18,MERCEDES EQC 400 4MATIC,-6Â 000â‚¬Â 1,0,291Â â‚¬
+19,MERCEDES VITO Tourer long eVITO (85kW) Traction 4x2 PTAC 3200kg,-6Â 000â‚¬Â 1,0,411Â â‚¬
+20,MERCEDES VITO Tourer extra-long eVITO (85kW) Traction 4x2 PTAC 3200kg,-6Â 000â‚¬Â 1,0,411Â â‚¬
+21,MINI MINI Cooper SE Hatch 3P (F56),-6Â 000â‚¬Â 1,0,199Â â‚¬
+23,NISSAN Nouvelle NISSAN LEAF,-6Â 000â‚¬Â 1,0,155Â â‚¬
+24,NISSAN Nouvelle NISSAN LEAF,-6Â 000â‚¬Â 1,0,177Â â‚¬
+25,PEUGEOT 208 E- Tense (136 ch),-6Â 000â‚¬Â 1,0,221Â â‚¬
+26,PEUGEOT ION electrique (67ch),-6Â 000â‚¬Â 1,0,241Â â‚¬
+27,PEUGEOT PARTNER,-6Â 000â‚¬Â 1,0,203Â â‚¬
+28,RENAULT ZOE (43Kw),-6Â 000â‚¬Â 1,0,206Â â‚¬
+29,RENAULT ZOE (51Kw),-6Â 000â‚¬Â 1,0,206Â â‚¬
+30,RENAULT ZOE (53Kw),-6Â 000â‚¬Â 1,0,206Â â‚¬
+31,SKODA CITIGOe iV,-6Â 000â‚¬Â 1,0,210Â â‚¬
+32,SMART EQ FORFOUR 22 kW Mode 3,-6Â 000â‚¬Â 1,0,175Â â‚¬
+33,SMART EQ FORFOUR,-6Â 000â‚¬Â 1,0,175Â â‚¬
+34,SMART EQ FORFOUR 22 kW Mode 2,-6Â 000â‚¬Â 1,0,213Â â‚¬
+35,SMART EQ FORFOUR 7 kW Mode 2,-6Â 000â‚¬Â 1,0,213Â â‚¬
+36,SMART EQ FORTWO COUPE,-6Â 000â‚¬Â 1,0,175Â â‚¬
+37,SMART EQ FORTWO COUPE 22 kW Mode 2,-6Â 000â‚¬Â 1,0,201Â â‚¬
+38,SMART EQ FORTWO COUPE 7 kW Mode 2,-6Â 000â‚¬Â 1,0,201Â â‚¬
+39,SMART EQ FORTWO CABRIO 22 kW Mode 3,-6Â 000â‚¬Â 1,0,175Â â‚¬
+40,SMART EQ FORTWO CABRIO,-6Â 000â‚¬Â 1,0,175Â â‚¬
+41,SMART EQ FORTWO COUPE 22 kW Mode 3,-6Â 000â‚¬Â 1,0,201Â â‚¬
+42,SMART EQ FORTWO CABRIO 7 kW Mode 2,-6Â 000â‚¬Â 1,0,201Â â‚¬
+44,TESLA MODEL 3 (100Kw),-6Â 000â‚¬Â 1,0,235Â â‚¬
+45,TESLA MODEL 3 (153Kw),-6Â 000â‚¬Â 1,0,202Â â‚¬
+46,TESLA MODEL 3 (155Kw),-6Â 000â‚¬Â 1,0,202Â â‚¬
+47,TESLA MODEL S (158Kw),-6Â 000â‚¬Â 1,0,247Â â‚¬
+48,TESLA MODEL S (169Kw),-6Â 000â‚¬Â 1,0,247Â â‚¬
+49,TESLA MODEL S (177Kw),-6Â 000â‚¬Â 1,0,247Â â‚¬
+50,TESLA MODEL S (180Kw),-6Â 000â‚¬Â 1,0,247Â â‚¬
+51,TESLA MODEL X (177Kw),-6Â 000â‚¬Â 1,0,293Â â‚¬
+52,TESLA MODEL X (180Kw),-6Â 000â‚¬Â 1,0,293Â â‚¬
+53,VOLKSWAGEN e-Golf 5P 136ch ess ar Mbr Fi A,-6Â 000â‚¬Â 1,0,209Â â‚¬
+54,VOLKSWAGEN e-Golf 5P 136ch ess ar Spl Fi A,-6Â 000â‚¬Â 1,0,209Â â‚¬
+55,VOLKSWAGEN e-up! ÃƒÂ©lectrique (82ch) 14'' std,-6Â 000â‚¬Â 1,0,185Â â‚¬
+56,VOLKSWAGEN e-up! ÃƒÂ©lectrique (82ch) 15'' std,-6Â 000â‚¬Â 1,0,185Â â‚¬
+57,HYUNDAI IONIQ plug-in,-,26,43Â â‚¬
+58,KIA NIRO 1.6 essence GDi (105ch) ISG / Electrique (60.5ch) DCT6 SystÃƒÂ¨me hybride rechargeable (141ch),-,29,47Â â‚¬
+59,MERCEDES A 250 e,-,30,74Â â‚¬
+60,MERCEDES A 250 e,-,30,74Â â‚¬
+61,MERCEDES B 250 e,-,30,62Â â‚¬
+62,PEUGEOT 508 2.0 PureTech (180ch) EAT8,-,31,67Â â‚¬
+63,PEUGEOT 508 2.0 PureTech (180ch) EAT8,-,31,67Â â‚¬
+65,SKODA SUPERB Berline PHEV pneu B famille A,-,31,85Â â‚¬
+66,SKODA SUPERB Berline PHEV pneu B famille B,-,31,85Â â‚¬
+67,SKODA SUPERB Berline PHEV pneu C famille A,-,31,85Â â‚¬
+68,SKODA SUPERB Berline PHEV pneu C famille B,-,31,85Â â‚¬
+69,SKODA SUPERB Combi PHEV pneu B famille A,-,31,85Â â‚¬
+70,SKODA SUPERB Combi PHEV pneu B famille B,-,31,85Â â‚¬
+71,SKODA SUPERB Combi PHEV pneu C famille A,-,31,85Â â‚¬
+72,SKODA SUPERB Combi PHEV pneu C famille B,-,31,85Â â‚¬
+73,"VOLKSWAGEN Passat 1.4 TSI + Hyb. Rech. (218ch) DSG6 bat dans coffre Start/Stop 17"" rlt fbl res Fi A",-,31,56Â â‚¬
+74,"VOLKSWAGEN Passat 1.4 TSI + Hyb. Rech. (218ch) DSG6 bat dans coffre Start/Stop 17"" rlt fbl res Fi B",-,31,56Â â‚¬
+75,"VOLKSWAGEN Passat 1.4 TSI + Hyb. Rech. (218ch) DSG6 bat dans coffre Start/Stop 17""/18""/19"" standard Fi A",-,31,56Â â‚¬
+76,"VOLKSWAGEN Passat 1.4 TSI + Hyb. Rech. (218ch) DSG6 bat dans coffre Start/Stop 17""/18""/19"" standard Fi B",-,31,56Â â‚¬
+77,"VOLKSWAGEN Passat SW 1.4 TSI + Hyb. Rech. (218ch) DSG6 bat dans coffre Start/Stop 17"" rlt fbl res Fi A",-,31,56Â â‚¬
+78,"VOLKSWAGEN Passat SW 1.4 TSI + Hyb. Rech. (218ch) DSG6 bat dans coffre Start/Stop 17"" rlt fbl res Fi B",-,31,56Â â‚¬
+79,"VOLKSWAGEN Passat SW 1.4 TSI + Hyb. Rech. (218ch) DSG6 bat dans coffre Start/Stop 17""/18""/19"" standard Fi A",-,31,56Â â‚¬
+80,"VOLKSWAGEN Passat SW 1.4 TSI + Hyb. Rech. (218ch) DSG6 bat dans coffre Start/Stop 17""/18""/19"" standard Fi B",-,31,56Â â‚¬
+81,TOYOTA PRIUS Hybride Rechargeable (122h) 17'' : Solar,-,32,43Â â‚¬
+82,DS DS7 CROSSBACK E-TENSE (200ch) EAT8,-,33,67Â â‚¬
+83,KIA OPTIMA SW 2.0 essence GDi (156ch) / Electrique (67ch) BVA6 SystÃƒÂ¨me hybride rechargeable (205ch),-,33,56Â â‚¬
+84,PEUGEOT Nouvelle 3008 2.0 BlueHDi (200ch) EAT8 S&S,-,33,66Â â‚¬
+86,MERCEDES C 300 e,-,35,75Â â‚¬
+87,MERCEDES C 300 e,-,35,75Â â‚¬
+88,BMW 330e Berline,-,36,60Â â‚¬
+89,BMW 530e Berline,-,36,54Â â‚¬
+90,BMW 530e Berline,-,36,54Â â‚¬
+91,MERCEDES E 300 e,-,37,78Â â‚¬
+92,BMW X5 xDrive45e,-,38,83Â â‚¬
+93,BMW X5 xDrive45e,-,38,83Â â‚¬
+94,MERCEDES C 300 de,-,38,75Â â‚¬
+95,MERCEDES C 300 de,-,38,75Â â‚¬
+96,MERCEDES E 200 d,-,38,78Â â‚¬
+97,MERCEDES E 300 de,-,38,78Â â‚¬
+98,MERCEDES C 300 e,-,39,75Â â‚¬
+99,VOLVO S60 T8 TWIN ENGINE (303 + 87 ch) Geartronic 8,-,39,75Â â‚¬
+100,VOLVO V60 T8 Twin Engine Geartronic 8,-,39,64Â â‚¬
+101,AUDI A3 40 e-tron (204ch) S tronic 6,-,40,54Â â‚¬
+102,AUDI A3 40 e-tron (204ch) S tronic 6,-,40,54Â â‚¬
+103,MITSUBISHI OUTLANDER PHEV TWIN ENGINE 4WD INVITE & BUSINESS my20,-,40,98Â â‚¬
+104,MITSUBISHI OUTLANDER PHEV INTENSE & INSTYLE MY19&BUSINES MY19 my20,-,40,98Â â‚¬
+105,VOLKSWAGEN Golf 5P GTE Hyb. Recharg. 204ch DSG6 optDCC ess ar Mbr S/S+rec Fi A,-,40,54Â â‚¬
+107,VOLKSWAGEN Golf 5P GTE Hyb. Recharg. 204ch DSG6 ess ar Mbr S/S+rec Fi A,-,40,54Â â‚¬
+108,VOLVO S90 T8 Twin Engine (390ch) Geartronic 8,-,40,67Â â‚¬
+109,VOLVO V90 T8 Twin Engine (390ch) Geartronic 8,-,40,78Â â‚¬
+110,VOLVO V90 T8 Twin Engine (390ch) Geartronic 8,-,40,78Â â‚¬
+111,VOLVO XC40 T5 TWIN ENGINE (262ch) DCT 7,-,41,75Â â‚¬
+112,AUDI A7 Sportback 55 TFSI e (367ch) S tronic 7,-,42,105Â â‚¬
+113,BMW 225xe Active Tourer,-,42,60Â â‚¬
+114,BMW i8 CoupÃƒÂ©,-,42,66Â â‚¬
+115,BMW i8 Roadster,-,42,68Â â‚¬
+116,VOLVO XC60 T8 Twin Engine (390ch) Geartronic 8,-,42,67Â â‚¬
+117,VOLVO XC60 T8 Twin Engine (390ch) Geartronic 8,-,42,67Â â‚¬
+118,MINI MINI Cooper SE Countryman (F60),-,43,53Â â‚¬
+119,AUDI Q5 50 TFSI e (299ch) quattro S tronic 7,-,45,105Â â‚¬
+120,AUDI Q5 55 TFSI e (367ch) quattro,-,45,105Â â‚¬
+121,BMW X5 xDrive45e,-,45,83Â â‚¬
+122,BMW X5 xDrive45e,-,45,83Â â‚¬
+123,MERCEDES E 300 e,-,46,78Â â‚¬
+124,BMW 530e Berline,-,47,54Â â‚¬
+125,BMW 530e xDrive Berline,-,47,54Â â‚¬
+126,BMW 530e xDrive Berline,-,47,54Â â‚¬
+128,MERCEDES E 300 e,-,47,78Â â‚¬
+129,BMW 745e Berline,-,48,62Â â‚¬
+130,VOLVO S60 T8 TWIN ENGINE Geartronic 8 Polestar Engineered,-,48,75Â â‚¬
+131,VOLVO XC90 T8 Twin Engine (390ch) Geartronic 8,-,48,77Â â‚¬
+132,VOLVO XC90 T8 Twin Engine (390ch) Geartronic 8,-,48,77Â â‚¬
+133,AUDI Q5 50 TFSI e (299ch) quattro S tronic 7,-,49,105Â â‚¬
+134,BMW 745Le,-,50,62Â â‚¬
+135,MERCEDES GLC 300 e 4MATIC,-,50,98Â â‚¬
+136,MERCEDES GLC 300 e 4MATIC,-,50,98Â â‚¬
+137,BMW 225xe Active Tourer,-,52,80Â â‚¬
+138,BMW 745Le xDrive,-,55,62Â â‚¬
+139,MERCEDES S 560 e,-,57,84Â â‚¬
+140,PORSCHE PANAMERA 4 E-HYBRID,-,58,75Â â‚¬
+141,PORSCHE PANAMERA 4 E-HYBRID,-,58,75Â â‚¬
+142,PORSCHE PANAMERA 4 E-HYBRID,-,58,84Â â‚¬
+143,PORSCHE PANAMERA 4 E-HYBRID,-,58,84Â â‚¬
+144,LAND ROVER RANGE ROVER LWB P400e (404ch) 4PL,-,69,78Â â‚¬
+145,LAND ROVER RANGE ROVER LWB P400e (404ch) 5PL,-,69,78Â â‚¬
+146,LAND ROVER RANGE ROVER SWB P400e (404ch) 4PL,-,69,78Â â‚¬
+147,LAND ROVER RANGE ROVER SWB P400e (404ch) 5PL,-,69,78Â â‚¬
+149,LAND ROVER RANGE ROVER SPORT P400e (404CH),-,69,78Â â‚¬
+150,PORSCHE CAYENNE E-HYBRID,-,70,98Â â‚¬
+151,PORSCHE CAYENNE E-HYBRID,-,70,98Â â‚¬
+152,PORSCHE PANAMERA TURBO S E-HYBRID,-,72,84Â â‚¬
+153,PORSCHE PANAMERA TURBO S E-HYBRID,-,72,84Â â‚¬
+154,PORSCHE PANAMERA TURBO S E-HYBRID,-,72,84Â â‚¬
+155,PORSCHE PANAMERA TURBO S E-HYBRID,-,72,84Â â‚¬
+156,PORSCHE CAYENNE E-HYBRID,-,74,98Â â‚¬
+157,PORSCHE CAYENNE E-HYBRID,-,74,98Â â‚¬
+158,BENTLEY BENTAYGA HYBRID,-,84,102Â â‚¬
+159,BENTLEY BENTAYGA HYBRID,-,84,102Â â‚¬
+160,PORSCHE CAYENNE TURBO S-PHEV,-,85,105Â â‚¬
+161,PORSCHE CAYENNE TURBO S-PHEV,-,85,105Â â‚¬
+162,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+6Â 810â‚¬,178,715Â â‚¬
+163,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+6Â 810â‚¬,178,715Â â‚¬
+164,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+6Â 810â‚¬,178,715Â â‚¬
+165,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+6Â 810â‚¬,178,715Â â‚¬
+166,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+6Â 810â‚¬,178,715Â â‚¬
+167,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+6Â 810â‚¬,178,715Â â‚¬
+168,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+6Â 810â‚¬,178,715Â â‚¬
+170,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 073â‚¬,179,715Â â‚¬
+171,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 073â‚¬,179,715Â â‚¬
+172,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 073â‚¬,179,715Â â‚¬
+173,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 073â‚¬,179,715Â â‚¬
+174,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg court Toit plat,+7Â 073â‚¬,179,715Â â‚¬
+175,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit plat,+7Â 073â‚¬,179,715Â â‚¬
+176,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 073â‚¬,179,715Â â‚¬
+177,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg court Toit plat,+7Â 073â‚¬,179,715Â â‚¬
+178,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 073â‚¬,179,715Â â‚¬
+179,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 073â‚¬,179,715Â â‚¬
+180,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 073â‚¬,179,715Â â‚¬
+181,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 073â‚¬,179,715Â â‚¬
+182,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 073â‚¬,179,715Â â‚¬
+183,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 340â‚¬,180,725Â â‚¬
+184,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 340â‚¬,180,725Â â‚¬
+185,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 340â‚¬,180,725Â â‚¬
+186,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 340â‚¬,180,725Â â‚¬
+187,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 340â‚¬,180,725Â â‚¬
+188,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+7Â 340â‚¬,180,725Â â‚¬
+189,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+7Â 340â‚¬,180,725Â â‚¬
+191,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+7Â 340â‚¬,180,725Â â‚¬
+192,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 340â‚¬,180,725Â â‚¬
+193,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+7Â 340â‚¬,180,725Â â‚¬
+194,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+7Â 340â‚¬,180,725Â â‚¬
+195,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+7Â 340â‚¬,180,725Â â‚¬
+196,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 340â‚¬,180,725Â â‚¬
+197,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 340â‚¬,180,725Â â‚¬
+198,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 613â‚¬,181,725Â â‚¬
+199,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 613â‚¬,181,725Â â‚¬
+200,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 613â‚¬,181,725Â â‚¬
+201,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+7Â 613â‚¬,181,725Â â‚¬
+202,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+7Â 613â‚¬,181,725Â â‚¬
+203,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+7Â 613â‚¬,181,725Â â‚¬
+204,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 613â‚¬,181,725Â â‚¬
+205,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+206,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+207,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+208,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+209,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+210,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+212,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+213,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+214,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+215,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg court Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+216,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+217,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+218,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg court Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+219,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+220,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+221,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+222,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+223,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+224,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+225,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+226,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+227,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+228,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+7Â 890â‚¬,182,725Â â‚¬
+229,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+230,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+231,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+233,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+7Â 890â‚¬,182,725Â â‚¬
+234,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 173â‚¬,183,736Â â‚¬
+235,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 173â‚¬,183,736Â â‚¬
+236,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 173â‚¬,183,736Â â‚¬
+237,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 173â‚¬,183,736Â â‚¬
+238,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 173â‚¬,183,736Â â‚¬
+239,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 173â‚¬,183,736Â â‚¬
+240,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 173â‚¬,183,736Â â‚¬
+241,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 173â‚¬,183,736Â â‚¬
+242,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 173â‚¬,183,736Â â‚¬
+243,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 173â‚¬,183,736Â â‚¬
+244,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 173â‚¬,183,736Â â‚¬
+245,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 173â‚¬,183,736Â â‚¬
+246,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 173â‚¬,183,736Â â‚¬
+247,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 173â‚¬,183,736Â â‚¬
+248,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 460â‚¬,184,736Â â‚¬
+249,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 460â‚¬,184,736Â â‚¬
+250,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 460â‚¬,184,736Â â‚¬
+251,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 460â‚¬,184,736Â â‚¬
+252,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+254,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+255,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+256,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+257,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+258,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+259,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+260,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+261,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 460â‚¬,184,736Â â‚¬
+262,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 460â‚¬,184,736Â â‚¬
+263,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 460â‚¬,184,736Â â‚¬
+264,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 460â‚¬,184,736Â â‚¬
+265,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 460â‚¬,184,736Â â‚¬
+266,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,185,736Â â‚¬
+267,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,185,736Â â‚¬
+268,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,185,736Â â‚¬
+269,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,185,736Â â‚¬
+270,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,185,736Â â‚¬
+271,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,185,736Â â‚¬
+272,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,185,736Â â‚¬
+273,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,185,736Â â‚¬
+275,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,185,736Â â‚¬
+276,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,185,736Â â‚¬
+277,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,185,736Â â‚¬
+278,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,185,736Â â‚¬
+279,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,185,736Â â‚¬
+280,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,185,736Â â‚¬
+281,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,186,746Â â‚¬
+282,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,186,746Â â‚¬
+283,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,186,746Â â‚¬
+284,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,186,746Â â‚¬
+285,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,186,746Â â‚¬
+286,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,186,746Â â‚¬
+287,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,186,746Â â‚¬
+288,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,186,746Â â‚¬
+289,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,186,746Â â‚¬
+290,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,186,746Â â‚¬
+291,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,186,746Â â‚¬
+292,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,186,746Â â‚¬
+293,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,186,746Â â‚¬
+294,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,186,746Â â‚¬
+296,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,187,746Â â‚¬
+297,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,187,746Â â‚¬
+298,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,187,746Â â‚¬
+299,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,187,746Â â‚¬
+300,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+301,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+302,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+303,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+304,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+305,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+306,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+307,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+308,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,187,746Â â‚¬
+309,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,187,746Â â‚¬
+310,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,187,746Â â‚¬
+311,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,187,746Â â‚¬
+312,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,187,746Â â‚¬
+313,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,189,757Â â‚¬
+314,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,189,757Â â‚¬
+315,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,189,757Â â‚¬
+317,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,189,757Â â‚¬
+318,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,189,757Â â‚¬
+319,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,189,757Â â‚¬
+320,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,189,757Â â‚¬
+321,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,189,757Â â‚¬
+322,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,189,757Â â‚¬
+323,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,189,757Â â‚¬
+324,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,189,757Â â‚¬
+325,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,189,757Â â‚¬
+326,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,189,757Â â‚¬
+327,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,189,757Â â‚¬
+328,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+329,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+330,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+331,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+332,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+333,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+334,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+335,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+336,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+338,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+339,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+340,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+341,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+342,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+343,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+344,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+345,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+346,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+347,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+348,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+349,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,197,789Â â‚¬
+350,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+351,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+352,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+353,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,197,789Â â‚¬
+354,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,199,799Â â‚¬
+355,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,199,799Â â‚¬
+356,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,199,799Â â‚¬
+357,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,199,799Â â‚¬
+359,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+360,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+361,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+362,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+363,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+364,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+365,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+366,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+367,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+368,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+369,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+370,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+371,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+372,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg normal Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+373,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3190 kg court Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+374,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+375,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x2 PTAC 3500 kg court Toit plat,+8Â 753â‚¬,200,799Â â‚¬
+376,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+377,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+378,MERCEDES SPRINTER Combi 311 CDI (114ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+380,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x2 PTAC 3190 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,200,799Â â‚¬
+381,NISSAN NV400 COMBI 3T3 8PL 2.3 dCi (110ch) BVM6,+8Â 753â‚¬,200,810Â â‚¬
+382,NISSAN NV400 COMBI 3T3 9PL 2.3 dCi (110ch) BVM6,+8Â 753â‚¬,200,810Â â‚¬
+383,NISSAN NV400 COMBI 3T5 8PL 2.3 dCi (110ch) BVM6,+8Â 753â‚¬,200,810Â â‚¬
+384,NISSAN NV400 COMBI 3T5 9PL 2.3 dCi (110ch) BVM6,+8Â 753â‚¬,200,810Â â‚¬
+385,NISSAN NV400 COMBI 3T3 8PL 2.3 dCi (170ch) BVM6,+8Â 753â‚¬,200,810Â â‚¬
+386,NISSAN NV400 COMBI 3T3 9PL 2.3 dCi (170ch) BVM6,+8Â 753â‚¬,200,810Â â‚¬
+387,NISSAN NV400 COMBI 3T5 8PL 2.3 dCi (170ch) BVM6,+8Â 753â‚¬,200,810Â â‚¬
+388,NISSAN NV400 COMBI 3T5 9PL 2.3 dCi (170ch) BVM6,+8Â 753â‚¬,200,810Â â‚¬
+389,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,207,831Â â‚¬
+390,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,207,831Â â‚¬
+391,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,207,831Â â‚¬
+392,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,207,831Â â‚¬
+393,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,210,841Â â‚¬
+394,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,210,841Â â‚¬
+395,MERCEDES SPRINTER Combi 314 CDI (143ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,210,841Â â‚¬
+396,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,210,841Â â‚¬
+397,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,214,862Â â‚¬
+398,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,214,862Â â‚¬
+399,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,214,862Â â‚¬
+401,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,216,862Â â‚¬
+402,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,216,862Â â‚¬
+403,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,216,862Â â‚¬
+404,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,217,873Â â‚¬
+405,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,217,873Â â‚¬
+406,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,217,873Â â‚¬
+407,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,218,873Â â‚¬
+408,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,218,873Â â‚¬
+409,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,218,873Â â‚¬
+410,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,219,873Â â‚¬
+411,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,219,873Â â‚¬
+412,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,219,873Â â‚¬
+413,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,219,873Â â‚¬
+414,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,219,873Â â‚¬
+415,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,221,883Â â‚¬
+416,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,221,883Â â‚¬
+417,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,221,883Â â‚¬
+418,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,222,883Â â‚¬
+419,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,222,883Â â‚¬
+420,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,229,915Â â‚¬
+422,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,229,915Â â‚¬
+423,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,232,925Â â‚¬
+424,MERCEDES SPRINTER Combi 316 CDI (163ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,232,925Â â‚¬
+425,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,237,946Â â‚¬
+426,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,237,946Â â‚¬
+427,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,237,946Â â‚¬
+428,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,240,957Â â‚¬
+429,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,240,957Â â‚¬
+430,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,240,957Â â‚¬
+431,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,240,957Â â‚¬
+432,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,240,957Â â‚¬
+433,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,243,978Â â‚¬
+434,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,243,978Â â‚¬
+435,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,243,967Â â‚¬
+436,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,243,967Â â‚¬
+437,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,243,978Â â‚¬
+438,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,245,978Â â‚¬
+439,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,245,978Â â‚¬
+440,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,246,988Â â‚¬
+441,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,246,988Â â‚¬
+443,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,246,988Â â‚¬
+444,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,249,988Â â‚¬
+445,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,249,988Â â‚¬
+446,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,250,999Â â‚¬
+447,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,250,999Â â‚¬
+448,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,252,1Â 009Â â‚¬
+449,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,252,1Â 009Â â‚¬
+450,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,252,1Â 009Â â‚¬
+451,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,252,1Â 009Â â‚¬
+452,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,252,1Â 009Â â‚¬
+453,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,255,1Â 020Â â‚¬
+454,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg long Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,255,1Â 020Â â‚¬
+455,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x2 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,255,1Â 020Â â‚¬
+456,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,260,1Â 041Â â‚¬
+457,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,260,1Â 041Â â‚¬
+458,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit plat,+8Â 753â‚¬,262,1Â 051Â â‚¬
+459,MERCEDES SPRINTER Combi 319 CDI (190ch) 4x4 PTAC 3500 kg normal Toit surÃƒÂ©levÃƒÂ©,+8Â 753â‚¬,262,1Â 051Â â‚¬

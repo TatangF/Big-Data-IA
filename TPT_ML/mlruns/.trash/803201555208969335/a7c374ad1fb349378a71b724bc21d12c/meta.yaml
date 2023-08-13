@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a7c374ad1fb349378a71b724bc21d12c/artifacts
+end_time: 1678352827007
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a7c374ad1fb349378a71b724bc21d12c
+run_name: thoughtful-seal-222
+run_uuid: a7c374ad1fb349378a71b724bc21d12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352823187
+status: 3
+tags: []
+user_id: Férol

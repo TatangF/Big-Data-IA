@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/ac48c558b46741e8b012dea4d02061fc/artifacts
+end_time: 1678352260683
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: ac48c558b46741e8b012dea4d02061fc
+run_name: abrasive-kit-339
+run_uuid: ac48c558b46741e8b012dea4d02061fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352256640
+status: 3
+tags: []
+user_id: Férol

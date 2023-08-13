@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/747941560073180994/d44acd8b2f944f7089ebde625a0c5894/artifacts
+end_time: 1678319984811
+entry_point_name: ''
+experiment_id: '747941560073180994'
+lifecycle_stage: active
+run_id: d44acd8b2f944f7089ebde625a0c5894
+run_name: fun-stag-878
+run_uuid: d44acd8b2f944f7089ebde625a0c5894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678319984753
+status: 4
+tags: []
+user_id: Férol

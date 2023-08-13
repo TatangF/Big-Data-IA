@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/36ea3670a58740d4bb43048a1b04309d/artifacts
+end_time: 1678353620244
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 36ea3670a58740d4bb43048a1b04309d
+run_name: loud-turtle-903
+run_uuid: 36ea3670a58740d4bb43048a1b04309d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353616020
+status: 3
+tags: []
+user_id: Férol

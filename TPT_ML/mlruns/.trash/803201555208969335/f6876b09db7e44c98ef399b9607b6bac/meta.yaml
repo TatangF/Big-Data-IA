@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/f6876b09db7e44c98ef399b9607b6bac/artifacts
+end_time: 1678351407876
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: f6876b09db7e44c98ef399b9607b6bac
+run_name: dazzling-pug-270
+run_uuid: f6876b09db7e44c98ef399b9607b6bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678351403905
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/677885858767628899/ad40061a822f479fb2ecbc4e7f2a1082/artifacts
+end_time: 1678348417283
+entry_point_name: ''
+experiment_id: '677885858767628899'
+lifecycle_stage: active
+run_id: ad40061a822f479fb2ecbc4e7f2a1082
+run_name: votingclassifier__rf__randomforestclassifier__n_estimators
+run_uuid: ad40061a822f479fb2ecbc4e7f2a1082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678348407566
+status: 3
+tags: []
+user_id: Férol

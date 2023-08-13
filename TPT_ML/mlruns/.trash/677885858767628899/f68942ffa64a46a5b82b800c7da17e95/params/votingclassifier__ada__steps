@@ -1,0 +1,1 @@
+[('adaboostclassifier', AdaBoostClassifier(n_estimators=100, random_state=0))]

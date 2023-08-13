@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/9f8ded3d0f3c421195cfe3c9198b6e49/artifacts
+end_time: 1678350991669
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 9f8ded3d0f3c421195cfe3c9198b6e49
+run_name: burly-dolphin-964
+run_uuid: 9f8ded3d0f3c421195cfe3c9198b6e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350985619
+status: 3
+tags: []
+user_id: Férol

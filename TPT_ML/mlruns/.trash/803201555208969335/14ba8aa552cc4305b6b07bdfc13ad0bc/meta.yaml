@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/14ba8aa552cc4305b6b07bdfc13ad0bc/artifacts
+end_time: 1678352602748
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 14ba8aa552cc4305b6b07bdfc13ad0bc
+run_name: learned-grub-824
+run_uuid: 14ba8aa552cc4305b6b07bdfc13ad0bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352598566
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/fe5aca4483dd45c585c9323edb21a5ba/artifacts
+end_time: 1678350064754
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: fe5aca4483dd45c585c9323edb21a5ba
+run_name: smiling-bass-120
+run_uuid: fe5aca4483dd45c585c9323edb21a5ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350057106
+status: 3
+tags: []
+user_id: Férol

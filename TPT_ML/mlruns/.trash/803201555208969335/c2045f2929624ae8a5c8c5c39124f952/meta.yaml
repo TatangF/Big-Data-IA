@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/c2045f2929624ae8a5c8c5c39124f952/artifacts
+end_time: 1678350520568
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: c2045f2929624ae8a5c8c5c39124f952
+run_name: painted-stoat-188
+run_uuid: c2045f2929624ae8a5c8c5c39124f952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350516005
+status: 3
+tags: []
+user_id: Férol

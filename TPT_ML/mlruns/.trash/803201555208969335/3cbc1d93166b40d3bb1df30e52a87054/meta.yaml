@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/3cbc1d93166b40d3bb1df30e52a87054/artifacts
+end_time: 1678350708455
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 3cbc1d93166b40d3bb1df30e52a87054
+run_name: silent-goat-638
+run_uuid: 3cbc1d93166b40d3bb1df30e52a87054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350704077
+status: 3
+tags: []
+user_id: Férol

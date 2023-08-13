@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/870a2a0b13744cfd80a418ea889d8b42/artifacts
+end_time: 1678352686992
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 870a2a0b13744cfd80a418ea889d8b42
+run_name: rumbling-stag-304
+run_uuid: 870a2a0b13744cfd80a418ea889d8b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352683171
+status: 3
+tags: []
+user_id: Férol

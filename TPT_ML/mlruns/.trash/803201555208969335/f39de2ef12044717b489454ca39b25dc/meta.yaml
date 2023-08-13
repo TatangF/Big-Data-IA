@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/f39de2ef12044717b489454ca39b25dc/artifacts
+end_time: 1678350489641
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: f39de2ef12044717b489454ca39b25dc
+run_name: zealous-shrimp-81
+run_uuid: f39de2ef12044717b489454ca39b25dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350485057
+status: 3
+tags: []
+user_id: Férol

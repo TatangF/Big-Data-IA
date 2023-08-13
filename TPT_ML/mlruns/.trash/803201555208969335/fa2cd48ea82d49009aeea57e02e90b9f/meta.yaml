@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/fa2cd48ea82d49009aeea57e02e90b9f/artifacts
+end_time: 1678350733230
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: fa2cd48ea82d49009aeea57e02e90b9f
+run_name: fortunate-rat-679
+run_uuid: fa2cd48ea82d49009aeea57e02e90b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350729174
+status: 3
+tags: []
+user_id: Férol

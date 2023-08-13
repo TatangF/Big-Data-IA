@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/f24bd32f1c2a4e50b8fe646beb91ca64/artifacts
+end_time: 1678352613121
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: f24bd32f1c2a4e50b8fe646beb91ca64
+run_name: merciful-sponge-125
+run_uuid: f24bd32f1c2a4e50b8fe646beb91ca64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352606717
+status: 3
+tags: []
+user_id: Férol

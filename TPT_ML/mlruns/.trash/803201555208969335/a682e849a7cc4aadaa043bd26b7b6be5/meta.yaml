@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/a682e849a7cc4aadaa043bd26b7b6be5/artifacts
+end_time: 1678353452953
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: a682e849a7cc4aadaa043bd26b7b6be5
+run_name: serious-pig-802
+run_uuid: a682e849a7cc4aadaa043bd26b7b6be5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678353448949
+status: 3
+tags: []
+user_id: Férol

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/28b2d92ee54b4474b64ce54a08014c78/artifacts
+end_time: 1678352932771
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 28b2d92ee54b4474b64ce54a08014c78
+run_name: grandiose-fish-14
+run_uuid: 28b2d92ee54b4474b64ce54a08014c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678352928752
+status: 3
+tags: []
+user_id: Férol

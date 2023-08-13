@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/747941560073180994/7d6456f6ef874378a9b7a9f86d367f00/artifacts
+end_time: 1678317928123
+entry_point_name: ''
+experiment_id: '747941560073180994'
+lifecycle_stage: active
+run_id: 7d6456f6ef874378a9b7a9f86d367f00
+run_name: adaptable-hawk-664
+run_uuid: 7d6456f6ef874378a9b7a9f86d367f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678317928051
+status: 4
+tags: []
+user_id: Férol

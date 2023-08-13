@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/803201555208969335/032410ad9c3d446789ef70440d645c52/artifacts
+end_time: 1678350339951
+entry_point_name: ''
+experiment_id: '803201555208969335'
+lifecycle_stage: active
+run_id: 032410ad9c3d446789ef70440d645c52
+run_name: sincere-dolphin-358
+run_uuid: 032410ad9c3d446789ef70440d645c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678350335816
+status: 3
+tags: []
+user_id: Férol

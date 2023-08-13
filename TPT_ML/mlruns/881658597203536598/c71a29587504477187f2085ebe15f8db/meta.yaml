@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ESTIA/TPT_ML/mlruns/881658597203536598/c71a29587504477187f2085ebe15f8db/artifacts
+end_time: 1678370581307
+entry_point_name: ''
+experiment_id: '881658597203536598'
+lifecycle_stage: active
+run_id: c71a29587504477187f2085ebe15f8db
+run_name: my_run
+run_uuid: c71a29587504477187f2085ebe15f8db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678370561513
+status: 3
+tags: []
+user_id: Férol
